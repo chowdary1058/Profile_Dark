@@ -2,14 +2,10 @@
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub Repo Badge" />
 </p>
 
-
-
-
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b4b&height=180&section=header&text=Red%20Lines%20Everywhere...%20Send%20Help!&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=Errors%20Are%20My%20Life...&descAlignY=70&descAlign=70" alt="Red Lines Everywhere Banner"/>
+  <img src="https://img.shields.io/badge/Errors-Everywhere-red?logo=bug&logoColor=white" alt="Errors Everywhere" />
 </p>
+
 
 
 <p align="center">
