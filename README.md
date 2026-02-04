@@ -28,8 +28,8 @@
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/zane-pearton">
-    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/alapati-sai-chowdary-a2867b2b9">
+    <img src="https://img.shields.io/badge/Alapati sai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://linktr.ee/zanepearton">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
