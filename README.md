@@ -5,20 +5,21 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Errors-Everywhere-red?logo=bug&logoColor=white" />
   </p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?
+      font=Fira+Code
+      &size=18
+      &duration=3000
+      &pause=500
+      &color=00FFCC
+      &center=true
+      &vCenter=true
+      &width=700
+      &lines=⚡+THIS+IS+MR+DARK+—+WELCOME+TO+MY+PORTFOLIO+⚡" />
+  </p>
   
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=18
-    &duration=3000
-    &pause=500
-    &color=00FFCC
-    &center=true
-    &vCenter=true
-    &width=700
-    &lines=⚡+THIS+IS+MR+DARK+—+WELCOME+TO+MY+PORTFOLIO+⚡" />
-</p>
-
+  
+  
   
   <p align="center">
     <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" width="1050" height="4" />
