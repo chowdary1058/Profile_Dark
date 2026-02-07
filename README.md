@@ -65,7 +65,7 @@
       A snapshot of my daily activity and continuous improvement.
     </p>
   
-    <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
     <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
   </div>
   
@@ -106,9 +106,9 @@
       Peek into my GitHub stats to see how I juggle code, coffee, and collaborations!
     </p>
   
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chowdary1058&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chowdary1058&theme=github_dark"/>
   
-    <table align="center" width="100%">
+<table align="center" width="100%">
       <tr>
         <td>
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chowdary1058&theme=github_dark"/>
