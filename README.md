@@ -44,15 +44,15 @@
       Let’s collaborate, innovate, and build something awesome together.
     </p>
   
-    <a href="https://www.linkedin.com/in/alapati-sai-chowdary-a2867b2b9">
+<a href="https://www.linkedin.com/in/alapati-sai-chowdary-a2867b2b9">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   
-    <a href="https://linktr.ee/alapatis671">
+<a href="https://linktr.ee/alapatis671">
       <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/>
     </a>
   
-    <a href="https://github.com/chowdary1058">
+<a href="https://github.com/chowdary1058">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </div>
